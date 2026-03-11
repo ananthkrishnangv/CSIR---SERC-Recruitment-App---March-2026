@@ -1,0 +1,5 @@
+{
+  "name": "CSIR-SERC Recruitment Portal",
+  "description": "Full-stack recruitment portal for CSIR-SERC with compliance to GoI rules, applicant tracking, and admin dashboard.",
+  "requestFramePermissions": []
+}
